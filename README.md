@@ -2,8 +2,8 @@
 
 A simple AngularJS starter project with user authentication and post management features.
 
-![cover 1](https://github.com/ainkhm/email-test/blob/main/.github/cover_1.png?raw=true)
-![cover 2](https://github.com/ainkhm/email-test/blob/main/.github/cover_2.png?raw=true)
+![cover 1](https://github.com/ainkhm/my-web-app/blob/main/.github/cover_1.png?raw=true)
+![cover 2](https://github.com/ainkhm/my-web-app/blob/main/.github/cover_2.png?raw=true)
 
 ## Features
 
